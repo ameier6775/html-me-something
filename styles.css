@@ -1,0 +1,54 @@
+ul img {
+    width: 500px;
+    height: 300px;
+    margin-left: 350px;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+ol img {
+    width: 450px;
+    height: 400px;
+    margin-left: 400px;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+h2 {
+    color: skyblue;
+    text-transform: capitalize;
+}
+
+h1 {
+    text-align: center;
+    color: maroon;
+}
+
+ul li {
+    color: indigo;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+ol li {
+    color: green;
+}
+
+body {
+    background-color: goldenrod;
+}
+
+p {
+    padding-bottom: 2rem;
+}
+
+footer {
+    text-align: end;
+}
+
+.blues {
+   color: blue;
+   font-size: 2.5rem;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
